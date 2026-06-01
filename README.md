@@ -11,6 +11,11 @@ Project consists of video and samples of the scoping process that was done on an
 <br />
 <br />
 
+<h2>Company info </h2>
+<img src="https://imgur.com/mjlaSxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 <h2>Cardholder Data Flow Storage:</h2>
 
 <p align="center">
