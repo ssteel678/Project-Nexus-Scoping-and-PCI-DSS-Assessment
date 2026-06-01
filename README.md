@@ -15,7 +15,7 @@ Project consists of video and samples of the scoping process that was done on an
 
 <p align="center">
 Cardholder Data Transmission Sample: <br/>
-<img src="https://imgur.com/SCiUfDy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/wz7Bpm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Cardholder Data Storage Sample:  <br/>
