@@ -15,7 +15,7 @@ Project consists of video and samples of the scoping process that was done on an
 
 <p align="center">
  Sample:  <br/>
-<img src="https://imgur.com/mjlaSxN.png" height="80%" width="80%" alt="Sample"/>
+<img src="https://imgur.com/k72U863.png" height="80%" width="80%" alt="Sample"/>
 <br />
 <br />
  PCI Providers:  <br/>
