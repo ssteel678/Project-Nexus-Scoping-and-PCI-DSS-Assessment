@@ -14,7 +14,7 @@ Project consists of video and samples of the scoping process that was done on an
 <h2>Company info </h2>
 
 <p align="center">
- Sample: 
+ Sample:  <br/>
 <img src="https://imgur.com/mjlaSxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
