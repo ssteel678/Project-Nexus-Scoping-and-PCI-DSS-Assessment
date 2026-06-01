@@ -19,7 +19,7 @@ Cardholder Data Transmission Sample: <br/>
 <br />
 <br />
 Cardholder Data Transmission Sample 2:  <br/>
-<img src="https://imgur.com/g569CXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EdZfEgM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Cardholder Data Storage:  <br/>
