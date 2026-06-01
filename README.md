@@ -6,7 +6,7 @@ Project consists of video and samples of the scoping process that was done on an
 <br />
 
 
-<h2>River Bussiness Overview Sample</h2>
+<h2>Nexus Overview Sample</h2>
 <img src="https://imgur.com/wz7Bpm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
