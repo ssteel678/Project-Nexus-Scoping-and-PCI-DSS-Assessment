@@ -7,7 +7,7 @@ Project consists of video and samples of the scoping process that was done on an
 
 
 <h2>Nexus Overview Sample</h2>
-<img src="https://imgur.com/wz7Bpm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/wz7Bpm0.png" height="80%" width="80%" alt="Nexus Overview Sample"/>
 <br />
 <br />
 
@@ -15,15 +15,15 @@ Project consists of video and samples of the scoping process that was done on an
 
 <p align="center">
  Sample:  <br/>
-<img src="https://imgur.com/mjlaSxN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mjlaSxN.png" height="80%" width="80%" alt="Sample"/>
 <br />
 <br />
  PCI Providers:  <br/>
-<img src="https://imgur.com/ggFZJRa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ggFZJRa.png" height="80%" width="80%" alt="PCI Providers"/>
 <br />
 <br />
   Physical CDE Locations:  <br/>
-<img src="https://imgur.com/XdUrcEC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/XdUrcEC.png" height="80%" width="80%" alt="Physical CDE Locations"/>
 <br />
 <br />
 </p>
@@ -31,15 +31,15 @@ Project consists of video and samples of the scoping process that was done on an
 
 <p align="center">
 Cardholder Data Transmission Sample: <br/>
-<img src="https://imgur.com/wz7Bpm0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/wz7Bpm0.png" height="80%" width="80%" alt="Cardholder Data Transmission Sample"/>
 <br />
 <br />
 Cardholder Data Transmission Sample 2:  <br/>
-<img src="https://imgur.com/TzNRarv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/TzNRarv.png" height="80%" width="80%" alt="Cardholder Data Transmission Sample 2"/>
 <br />
 <br />
 Cardholder Data Storage:  <br/>
-<img src=https://imgur.com/EdZfEgM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://imgur.com/EdZfEgM.png" height="80%" width="80%" alt="Cardholder Data Storage"/>
 <br />
 <br /> 
 Web Applications Sample: <br/>
