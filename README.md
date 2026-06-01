@@ -43,7 +43,7 @@ Cardholder Data Storage:  <br/>
 <br />
 <br /> 
 Web Applications Sample: <br/>
-<img src="https://imgur.com/klHdAmU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/klHdAmU.png" height="80%" width="80%" alt="Web Applications Sample"/>
 <br />
 <br />
 </p>
