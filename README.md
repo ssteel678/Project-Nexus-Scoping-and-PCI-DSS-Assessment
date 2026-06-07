@@ -95,8 +95,8 @@ High Level: <br/>
 <img src="https://imgur.com/eMd3can.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Elpaso, TX:  <br/>
-<img src="https://imgur.com/WAQwWGw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Morrisville L2:  <br/>
+<img src="https://imgur.com/NuAgrOS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Kochi, India: <br/>
