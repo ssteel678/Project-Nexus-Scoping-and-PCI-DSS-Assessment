@@ -92,15 +92,15 @@ Wireless Summary:  <br/>
 
 <p align="center">
 High Level: <br/>
-<img src="https://imgur.com/eMd3can.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/eMd3can.png" height="80%" width="80%" alt="High Level"/>
 <br />
 <br />
 Morrisville L2:  <br/>
-<img src="https://imgur.com/NuAgrOS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NuAgrOS.png" height="80%" width="80%" alt="Morrisville L2"/>
 <br />
 <br />
-Kochi, India: <br/>
-<img src="https://imgur.com/DxWyxBe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Morrisville L3: <br/>
+<img src="https://imgur.com/ToYy4t1.png" height="80%" width="80%" alt="Morrisville L3"/>
 <br />
 <br />
 Lexington /Blywood: <br/>
