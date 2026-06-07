@@ -76,7 +76,7 @@ Network Segments with Cardholder Data: <br/>
 <br />
 <br />
 Network Segments with Cardholder Data Sample 3: <br/>
-<img src="https://imgur.com/q8kKBBI.png" height="80%" width="80%" alt="Network Segments with Cardholder Data Sample 3"/>
+<img src="https://imgur.com/SSiAgQ1.png" height="80%" width="80%" alt="Network Segments with Cardholder Data Sample 3"/>
 <br />
 <br />
 NON-CDE Network Segments:  <br/>
