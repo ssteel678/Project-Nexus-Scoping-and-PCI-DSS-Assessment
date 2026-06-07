@@ -64,7 +64,9 @@ Sample 3: <br/>
 <br />
 
  <h2>Networks:</h2>
-
+ #
+ ### [Nexus Scope Overview Link](https://www.loom.com/share/a41e399575bd496785e63f10b10c6c5d)
+ 
 <p align="center">
 Network Segments with Cardholder Data: <br/>
 <img src="https://imgur.com/eFTgZbF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
