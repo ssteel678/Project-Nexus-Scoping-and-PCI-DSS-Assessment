@@ -80,7 +80,7 @@ Network Segments with Cardholder Data Sample 3: <br/>
 <br />
 <br />
 NON-CDE Network Segments:  <br/>
-<img src="https://imgur.com/mOas17b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/XoUMDmo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
