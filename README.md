@@ -83,6 +83,10 @@ NON-CDE Network Segments:  <br/>
 <img src="https://imgur.com/XoUMDmo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Wireless Summary:  <br/>
+<img src="https://imgur.com/5ZCs5kv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>Network Diagrams:</h2>
 
