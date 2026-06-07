@@ -1,5 +1,5 @@
 # Project-Nexus-Scoping-and-PCI-DSS-Assessment
- ### [Nexus Scope Overview Link](https://www.loom.com/share/d99eaeada2bd48b98437124e54168478)
+ ### [Nexus Scope Overview Link](https://www.loom.com/share/a41e399575bd496785e63f10b10c6c5d)
 
 <h2>Description</h2>
 Project consists of video and samples of the scoping process that was done on an organization named River which is a third-party service provider contracted by a major U.S. financial institution to manage various operational functions related to the institution’s credit card services. The company also processes, stores and transmits card holder data for the institution. The purpose of the scope is verify what is applicable and not applicable before performing a PCI DSS Assessment. 
