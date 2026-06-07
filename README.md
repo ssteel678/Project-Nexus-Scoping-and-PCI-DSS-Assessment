@@ -103,8 +103,8 @@ Morrisville L3: <br/>
 <img src="https://imgur.com/ToYy4t1.png" height="80%" width="80%" alt="Morrisville L3"/>
 <br />
 <br />
-Lexington /Blywood: <br/>
-<img src="https://imgur.com/LyGnfSe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I77: <br/>
+<img src="https://imgur.com/Bj2lKYe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  High Level: <br/>
