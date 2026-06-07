@@ -92,7 +92,7 @@ Wireless Summary:  <br/>
 
 <p align="center">
 High Level: <br/>
-<img src="https://imgur.com/eMd3can.pnh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/eMd3can.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Elpaso, TX:  <br/>
