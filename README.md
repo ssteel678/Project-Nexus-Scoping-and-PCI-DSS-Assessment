@@ -31,7 +31,7 @@ Project consists of video and samples of the scoping process that was done on an
 
 <p align="center">
 Cardholder Data Transmission Sample: <br/>
-<img src="https://imgur.com/wz7Bpm0.png" height="80%" width="80%" alt="Cardholder Data Transmission Sample"/>
+<img src="https://imgur.com/taTZCDc.png" height="80%" width="80%" alt="Cardholder Data Transmission Sample"/>
 <br />
 <br />
 Cardholder Data Transmission Sample 2:  <br/>
