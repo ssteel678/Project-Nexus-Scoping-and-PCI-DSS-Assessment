@@ -91,8 +91,8 @@ Wireless Summary:  <br/>
 <h2>Network Diagrams:</h2>
 
 <p align="center">
-Elpaso, TX Detailed: <br/>
-<img src="https://imgur.com/tAOlr0D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+High Level: <br/>
+<img src="https://imgur.com/eMd3can.pnh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Elpaso, TX:  <br/>
