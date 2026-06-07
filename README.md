@@ -72,9 +72,13 @@ Network Segments with Cardholder Data: <br/>
 <br />
 <br />
  Network Segments with Cardholder Data Sample 2: <br/>
-<img src="https://imgur.com/DunE5Qv.png" height="80%" width="80%" alt="Network Segments with Cardholder Data"/>
+<img src="https://imgur.com/q8kKBBI.png" height="80%" width="80%" alt="Network Segments with Cardholder Data Sample 2"/>
 <br />
-<br />**
+<br />
+Network Segments with Cardholder Data Sample 3: <br/>
+<img src="https://imgur.com/q8kKBBI.png" height="80%" width="80%" alt="Network Segments with Cardholder Data Sample 3"/>
+<br />
+<br />
 NON-CDE Network Segments:  <br/>
 <img src="https://imgur.com/mOas17b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
