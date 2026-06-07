@@ -104,11 +104,11 @@ Morrisville L3: <br/>
 <br />
 <br />
 I77: <br/>
-<img src="https://imgur.com/Bj2lKYe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Bj2lKYe.png" height="80%" width="80%" alt="I77"/>
 <br />
 <br />
- High Level: <br/>
-<img src="https://imgur.com/coYP13P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Monroe: <br/>
+<img src="https://imgur.com/Pi1aQI9.png" height="80%" width="80%" alt="Monrore"/>
 <br />
 <br />
 </p>
