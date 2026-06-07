@@ -1,5 +1,6 @@
 # Project-Nexus-Scoping-and-PCI-DSS-Assessment
  ### [Nexus Scope Overview Link](https://www.loom.com/share/a41e399575bd496785e63f10b10c6c5d)
+ ### [Nexus Documenting Scope part2](https://www.loom.com/share/10651c3d30b0493dbf5697a53faaa2ea)
 
 <h2>Description</h2>
 Project consists of video and samples of the scoping process that was done on an organization named Nexus Nexus Tolling Cooperative Agreement (NTCA) operates the Nexus QuickPass tolling and payment platform, which enables motorists to open and manage prepaid toll accounts, make one-time payments, and resolve violations. NTCA contracts with Vectoris Technologies to provide fully managed operational and technical services, including system hosting, application support, and staffing for the eCommerce website, call center, and customer service centers. . The purpose of the scope is verify what is applicable and not applicable before performing a PCI DSS Assessment. 
